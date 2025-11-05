@@ -31,3 +31,10 @@ It also provides a pass/fail summary and allows multiple analyses using a menu-d
 4. Run the program with:
    ```bash
    python gradebook.py
+
+---
+## 🖼️ Sample Output Screenshot
+
+Below is a sample output of the GradeBook Analyzer program:
+
+![Program Output](output_screenshot.png)
